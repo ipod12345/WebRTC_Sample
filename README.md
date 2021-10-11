@@ -6,14 +6,12 @@
 
 An android application which uses WebRTC and Firestore as signaling server to support real time media communication.
 
-[![WebRTC Sample](https://img.youtube.com/vi/MlRN8dV9lOs/0.jpg)](https://youtu.be/MlRN8dV9lOs)
-
 
 ---
-## test fucks
+
 ## Pre-requisites
  :heavy_check_mark: Android studio installed in your system.<br/>
- :heavy_check_mark: Android Device or Emulator to run your app.<br/>
+ :heavy_check_mark: Android Device or Emulator(minimum api level_25) to run your app.<br/>
  :heavy_check_mark: Setup Account on Firebase and integrate app with your Firebase Project.<br/>
  
 --- 
@@ -22,8 +20,6 @@ An android application which uses WebRTC and Firestore as signaling server to su
 
 - You can clone the project from the WebRTC Kotlin Sample repository.
 
-```// Clone this repository
-  git clone https://github.com/developerspace-samples/WebRTC-Kotlin-Sample.git
 ```
 
 - Please make sure to create a Firebase Project and set-up with this app. You need to add `google-service.json` file of your Firebase project in your `app` folder.
